@@ -11,14 +11,12 @@
     height: 140px;
     text-align: center;
     color: white;
-    display: inline-block;
 }
 
 .juntar{
     display: flex;
     flex-direction: row-reverse;
     gap: 15px;
-    margin: 0;
 }
 
 .conteudo {
