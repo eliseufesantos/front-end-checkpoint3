@@ -1,0 +1,46 @@
+.pai {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.cabecalho {
+    background-color: blue;
+    width: 980px;
+    height: 140px;
+    text-align: center;
+    color: white;
+    display: inline-block;
+}
+
+.juntar{
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 15px;
+    margin: 0;
+}
+
+.conteudo {
+    background-color: blue;
+    width: 690px;
+    height: 450px;
+    text-align: center;
+    color: white;
+}
+
+.lado {
+    background-color: rgb(255, 0, 0);
+    width: 270px;
+    height: 450px;
+    text-align: center;
+    color: white;
+}
+
+.rodape {
+    background-color: rgb(255, 0, 0);
+    width: 980px;
+    height: 70px;
+    text-align: center;
+    color: white;
+}
